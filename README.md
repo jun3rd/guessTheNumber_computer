@@ -1,5 +1,5 @@
 # guessTheNumber_computer
-Guess The Number - Computer
+Guess The Number - Computer, starting point 12 Beginner Python Projects by Kylie Ying for freeCodeCamp.org
 
 ## tasks:
     - keep score:
